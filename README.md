@@ -60,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Majharulislam1/Majharulislam1/output/snake.svg" alt="Snake animation" />
+
 
 ###
