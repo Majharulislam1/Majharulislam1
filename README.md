@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="379" src="https://raw.githubusercontent.com/Majharulislam1/profile_pic/refs/heads/main/Green%20and%20Cream%20Modern%20Gaming%20Linkedin%20Banner.png?token=GHSAT0AAAAAAC2YYPXEXYU5WIOIPG7RAUQIZ5CQT4A"  />
+  <img height="379" src="https://github.com/user-attachments/assets/3c268fbd-029b-4755-813c-226ab8234b98"  />
 </div>
 
 ###
